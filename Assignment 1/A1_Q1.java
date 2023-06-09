@@ -45,7 +45,7 @@ class Room {
         }
     }
 }
-public class A1_Q1_22K_4054 {
+public class A1_Q1 {
     public static void main(String[] args) {
         String radiatorID;
 
